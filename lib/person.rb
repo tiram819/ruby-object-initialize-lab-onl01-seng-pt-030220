@@ -1,3 +1,4 @@
 class Person
   
-  def person
+  def name 
+    @name
