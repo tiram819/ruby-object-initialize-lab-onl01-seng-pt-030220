@@ -13,6 +13,6 @@ class Person
   end 
 end
 
-
+Beyonce = Person.new
   
     
